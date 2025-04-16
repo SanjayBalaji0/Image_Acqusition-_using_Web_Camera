@@ -1,5 +1,5 @@
-
-Aim:
+# Image_Acqusition-_using_Web_Camera
+## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
@@ -105,27 +105,19 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-
-
+![Alt text](<Screenshot 2025-04-16 131110.png>)
 
 ### ii) Display the video
 
-
-
+![Alt text](<Screenshot 2025-04-09 155752.png>)
 
 ### iii) Display the video by resizing the window
-</br>
-</br>
 
-
+![Alt text](<Screenshot 2025-04-09 155719.png>)
 
 ### iv) Rotate and display the video
-</br>
-</br>
 
-
-
-
+![Alt text](<Screenshot 2025-04-09 155600.png>)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
